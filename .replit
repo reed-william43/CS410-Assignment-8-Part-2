@@ -1,0 +1,5 @@
+# change the second element in the array below to change the entry point
+run = [ "perl", "main.pl" ]
+
+[nix]
+channel = "stable-21_11"
